@@ -1,3 +1,5 @@
+//se creo la instancia de las clases que se crearon y ejecutando las funciones de mostrarDetalle
+
 package poo;
 import uni1a.*;
 
